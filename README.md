@@ -10,3 +10,4 @@ learn [AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/), file t
 * [Working with custom identity providers](https://docs.aws.amazon.com/transfer/latest/userguide/authenticating-users.html)
 * [github advanced search '"AWS::Transfer::Server" language:YAML'](https://github.com/search?q=%22AWS%3A%3ATransfer%3A%3AServer%22+language%3AYAML&type=code) - find cfn examples in github
 * [Jerry Hargrove - Cloud Diagrams & Notes | AWS Transfer Family](https://www.awsgeek.com/AWS-Transfer-Family/)
+* [Jerry Hargrove - Cloud Diagrams & Notes | AWS Transfer for SFTP](https://www.awsgeek.com/AWS-Transfer-for-SFTP/)
